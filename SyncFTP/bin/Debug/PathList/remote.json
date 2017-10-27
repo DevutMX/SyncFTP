@@ -1,0 +1,50 @@
+[
+  {
+    "PathStructure": {
+      "FilePermissions": "rwxr-xr-x",
+      "FileType": "-",
+      "FullName": "/Remote/3840x2160_MyN_Landscape_Metroid_Samus_Returns_A.jpg",
+      "Group": "3688577",
+      "IsDirectory": false,
+      "IsParentDirectory": false,
+      "IsThisDirectory": false,
+      "LastWriteTime": "2017-10-13T00:17:21-05:00",
+      "Length": 2416331,
+      "Length32": 2416331,
+      "Name": "3840x2160_MyN_Landscape_Metroid_Samus_Returns_A.jpg",
+      "Owner": "3688577"
+    }
+  },
+  {
+    "PathStructure": {
+      "FilePermissions": "rwxr-xr-x",
+      "FileType": "-",
+      "FullName": "/Remote/Acta.pdf",
+      "Group": "3688577",
+      "IsDirectory": false,
+      "IsParentDirectory": false,
+      "IsThisDirectory": false,
+      "LastWriteTime": "2017-10-13T00:16:50-05:00",
+      "Length": 9890516,
+      "Length32": 9890516,
+      "Name": "Acta.pdf",
+      "Owner": "3688577"
+    }
+  },
+  {
+    "PathStructure": {
+      "FilePermissions": "rwxr-xr-x",
+      "FileType": "-",
+      "FullName": "/Remote/open.txt",
+      "Group": "3688577",
+      "IsDirectory": false,
+      "IsParentDirectory": false,
+      "IsThisDirectory": false,
+      "LastWriteTime": "2017-10-13T00:16:51-05:00",
+      "Length": 23,
+      "Length32": 23,
+      "Name": "open.txt",
+      "Owner": "3688577"
+    }
+  }
+]
